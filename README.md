@@ -1,3 +1,3 @@
-# google_prettify
-google prettify files
+# prism
+prism files
 using google sites
