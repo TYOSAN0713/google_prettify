@@ -1,7 +1,7 @@
 # Using prism in google site
 prism files
 using google sites
-# How to use google sites
+# How to use google site
 1. if you want to use original prism file, you go prism site and generate your js and css file.
 2. select embedded
 3. js file open and copy
