@@ -1,4 +1,4 @@
-# using prism in google site
+# Using prism in google site
 prism files
 using google sites
 # How to use google sites
